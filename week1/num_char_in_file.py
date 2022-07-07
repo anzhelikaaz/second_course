@@ -3,3 +3,4 @@ content = failref.read()
 num_char = len(content)
 
 print(num_char)
+failref.close()
